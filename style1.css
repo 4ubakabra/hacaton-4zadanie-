@@ -1,0 +1,121 @@
+/* text */
+.body{
+font-size: 18px;
+    color: #333;
+}
+.fam h1 {
+margin: 50px 0 10px 0;
+    font-size: 60px;
+    text-align: center;
+}
+.fam h2 {
+    margin-top: 0;
+    padding-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+.ogl_1{
+    text-align: left;
+    border: none;
+    padding: 0;
+}
+.ogl_2{
+    text-align: left;
+    border: none;
+    padding: 0;
+}
+.ogl_3{
+     text-align: left;
+    border: none;
+    padding: 0;
+}
+.naviki{
+     margin: 50px 0 50px 0;
+    padding: 0 50px 0 50px
+}
+.dop_inf{
+     margin: 50px 0 50px 0;
+    padding: 0 50px 0 50px
+}
+.obr{
+
+margin: 50px 0 50px 0;
+    padding: 0 50px 0 50px
+}
+.spis_1{
+    margin-bottom: 10px;
+}.spis_2{
+    margin-bottom: 10px;
+}
+
+
+
+/* header */
+header{
+	width: 100%;
+	background: #D8E3AB;
+	height: 70px;
+    
+}
+.title{
+	font-size: 36px;
+	padding-top: 10px;
+	text-align: center;
+    
+}
+.navig{
+	list-style: none;
+	position: absolute;
+	top: -10px;
+	right: 100px;
+}
+
+
+/* footer */
+.footers{
+    font-family: PT Astra Sans;
+   background-color: #e9e9f0;
+   top: -100px;
+}
+.footer {
+  background-color: #2e34e5;
+   right: 0;
+   bottom: 0;
+   text-align: center; 
+   width: 100%;   
+   font-size: 40px;
+    font-weight: bold;
+    color: #fafaff;  
+    height: 70px;
+ }
+ /* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 3px;
+    font-size: 16px;
+    border: none;
+    margin-top:-200px;
+ }
+ .dropdown {
+    position: relative;
+    display: inline-block;
+    
+ }
+ .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+ }
+ .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block; 
+ }
+ .dropdown-content a:hover {background-color: #ddd;}
+ .dropdown:hover .dropdown-content {display: block;}
+ .dropdown:hover .dropbtn {background-color: #3e8e41;}
